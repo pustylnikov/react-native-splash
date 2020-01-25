@@ -1,0 +1,17 @@
+{
+  "name": "@anvilapp/react-native-splash",
+  "version": "1.0.1",
+  "description": "Splash screen",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "yura.pustylnikov@gmail.com",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": [
+    "react",
+    "splash"
+  ]
+}
